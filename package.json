@@ -1,0 +1,27 @@
+{
+  "name": "code-imagine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "code-imagine": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "image-generation",
+    "math",
+    "qrcode"
+  ],
+  "author": "Manus",
+  "license": "MIT",
+  "description": "أداة لتوليد الصور عبر المعادلات الرياضية ورموز QR",
+  "dependencies": {
+    "canvas": "^3.2.1",
+    "commander": "^14.0.3",
+    "openai": "^6.18.0",
+    "qrcode": "^1.5.4",
+    "sharp": "^0.34.5"
+  }
+}
