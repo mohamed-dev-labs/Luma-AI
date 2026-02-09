@@ -1,6 +1,6 @@
 # Luma AI: محرك توليد صور محلي يعتمد على التقطير المعرفي والمعادلات الرياضية والفيزيائية الدقيقة
 
-![Luma AI Logo](https://raw.githubusercontent.com/global-developers-labs/Luma-AI/master/luma_logo.jpg)
+![Luma AI Logo](https://raw.githubusercontent.com/mohamed-dev-labs/Luma-AI/master/luma_logo.jpg)
 
 ## نظرة عامة
 
@@ -22,7 +22,7 @@
 
 1.  **استنساخ المستودع:**
     ```bash
-    git clone https://github.com/global-developers-labs/Luma-AI.git
+    git clone https://github.com/mohamed-dev-labs/Luma-AI.git
     cd Luma-AI
     ```
     يقوم هذا الأمر باستنساخ مستودع Luma AI من GitHub إلى جهازك، ثم ينتقل إلى مجلد المشروع.
@@ -84,7 +84,7 @@
 
 نرحب بالمساهمات في تطوير Luma AI. إذا كان لديك اقتراحات أو تحسينات، فلا تتردد في فتح مشكلة (issue) أو إرسال طلب سحب (pull request) عبر مستودعنا على GitHub:
 
-[GitHub Repository: global-developers-labs/Luma-AI](https://github.com/global-developers-labs/Luma-AI)
+[GitHub Repository: mohamed-dev-labs/Luma-AI](https://github.com/mohamed-dev-labs/Luma-AI)
 
 ## الترخيص
 
