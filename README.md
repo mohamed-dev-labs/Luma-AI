@@ -1,6 +1,6 @@
 # Luma AI: محرك توليد صور محلي يعتمد على التقطير المعرفي والمعادلات الرياضية والفيزيائية الدقيقة
 
-![Luma AI Logo](https://raw.githubusercontent.com/global-developers-labs/Luma-AI/main/luma_logo.jpg)
+![Luma AI Logo](https://raw.githubusercontent.com/global-developers-labs/Luma-AI/master/luma_logo.jpg)
 
 ## نظرة عامة
 
