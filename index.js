@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 const { Command } = require('commander');
+const displayLogo = require('./logo');
 const ImageEngine = require('./engine');
 const path = require('path');
 const fs = require('fs');
@@ -49,5 +50,10 @@ program
       console.error('❌ حدث خطأ في المحرك الرياضي:', error.message);
     }
   });
+
+if (process.argv.length <= 2) {
+  displayLogo();
+  program.help();
+}
 
 program.parse();

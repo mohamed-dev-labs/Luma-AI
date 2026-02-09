@@ -1,6 +1,6 @@
 # Luma AI: محرك توليد صور محلي يعتمد على التقطير المعرفي والمعادلات الرياضية والفيزيائية الدقيقة
 
-![Luma AI Logo](https://raw.githubusercontent.com/global-developers-labs/code-imagine/main/luma_logo.png) <!-- Placeholder for a future logo -->
+![Luma AI Logo](https://raw.githubusercontent.com/global-developers-labs/Luma-AI/main/luma_logo.png) <!-- Placeholder for a future logo -->
 
 ## نظرة عامة
 
@@ -19,7 +19,7 @@ Luma AI هي أداة قوية لتوليد الصور محليًا، مصممة
 
 1.  **استنساخ المستودع:**
     ```bash
-    git clone https://github.com/global-developers-labs/code-imagine.git
+    git clone https://github.com/global-developers-labs/Luma-AI.git
     cd code-imagine
     ```
 

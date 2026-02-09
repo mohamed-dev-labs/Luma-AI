@@ -6,7 +6,8 @@
     "luma-ai": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node postinstall.js"
   },
   "keywords": [
     "cli",
@@ -19,10 +20,13 @@
   "description": "Luma AI: محرك توليد صور محلي يعتمد على التقطير المعرفي والمعادلات الرياضية والفيزيائية الدقيقة",
   "dependencies": {
     "canvas": "^3.2.1",
+    "chalk": "^5.6.2",
     "commander": "^14.0.3",
     "openai": "^6.18.0",
     "qrcode": "^1.5.4",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.34.5"
+    "sharp": "^0.34.5",
+    "terminal-image": "^4.2.0",
+    "tinygradient": "^2.0.1"
   }
 }
