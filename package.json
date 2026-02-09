@@ -1,9 +1,9 @@
 {
-  "name": "code-imagine",
-  "version": "1.0.0",
+  "name": "luma-ai",
+  "version": "2.0.0",
   "main": "index.js",
   "bin": {
-    "code-imagine": "./index.js"
+    "luma-ai": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
   ],
   "author": "Manus",
   "license": "MIT",
-  "description": "أداة لتوليد الصور عبر المعادلات الرياضية ورموز QR",
+  "description": "Luma AI: محرك توليد صور محلي يعتمد على التقطير المعرفي والمعادلات الرياضية والفيزيائية الدقيقة",
   "dependencies": {
     "canvas": "^3.2.1",
     "commander": "^14.0.3",
